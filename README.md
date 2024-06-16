@@ -1,7 +1,6 @@
 # WebCam-Google-Shodan-Dorks
 
 ## Shodan Dorks:
-~~~
 
 1 Wireless N IP cams
 - IP cams using the wireless-n protocol.
@@ -520,10 +519,10 @@
 
 1 Some random webcams
 - http.title:"Webcam"
-~~~
+
 
 ## Google Dorks:
-~~~
+
 - intitle:"iGuard Fingerprint Security System"
 
 - (intitle:MOBOTIX intitle:PDAS) | (intitle:MOBOTIX intitle:Seiten) | (inurl:/pda/index.html +camera)
@@ -677,4 +676,3 @@
 - intitle:"netcam live image" (disconnected)
 
 - intitle:"i-Catcher Console - Web Monitor"
-~~~
