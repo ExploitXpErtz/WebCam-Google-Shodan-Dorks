@@ -1,6 +1,7 @@
 # WebCam-Google-Shodan-Dorks
 
 ## Shodan Dorks:
+---------------------------
 
 ### Wireless N IP cams
 - IP cams using the wireless-n protocol.
@@ -521,6 +522,7 @@
 - http.title:"Webcam"
 
 ## Google Dorks:
+---------------------------
 
 - intitle:"iGuard Fingerprint Security System"
 
