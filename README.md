@@ -1,524 +1,524 @@
 # WebCam-Google-Shodan-Dorks
 
-
-##Shodan Dorks:
+## Shodan Dorks:
 ~~~
-###Wireless N IP cams
+
+1 Wireless N IP cams
 - IP cams using the wireless-n protocol.
 
-###Weather Wing Portal
+1 Weather Wing Portal
 - Weather Wing (http://www.meteo-system.com/ws2.php). You can also search it using this Google Dork -> [intitle:"Weather Wing WS-2"]. [g00gl3 5c0u7]
 
-###Network cameras with Pan/Tilt/Zoom
+1 Network cameras with Pan/Tilt/Zoom
 - IP cameras with Pan/Tilt/Zoom function...
 
-###DCS-5220 IP camera
+1 DCS-5220 IP camera
 - D-Link IP cameras.
 
-###Web Viewer for Samsung DVR
+1 Web Viewer for Samsung DVR
 - Default password is: Username = admin / Password = 4321
 
-###IP CAMERA Viewer (TP-Link IP Cameras)
+1 IP CAMERA Viewer (TP-Link IP Cameras)
 - Several cameras have an PTZ option (Pan-Tilt-Zoom). No authentication is required. IP CAMERA Viewer for TP-Link IP Cameras.
 
-###webcamxp
+1 webcamxp
 - one of the best dorks for ip cameras/webcams
 
-###Foscam (old Web UI)
+1 Foscam (old Web UI)
 - Foscam devices using an old Web UI around the world
 
-###IP Camera 3
+1 IP Camera 3
 - Another great IP cam search!!
 
-###Planet IP Cam
+1 Planet IP Cam
 - Finds Planet IP cams.
 
-###VMax Web Viewer
+1 VMax Web Viewer
 - VMax Web Viewer Login (http://publiclibrary.dwcc.tv/DVR/VMAX/01Manual_VMAX.pdf). Default User/Pass -> admin/<none>. [g00gl3 5c0u7]
 
-###IQeye Cameras
+1 IQeye Cameras
 - default login: root / system
 
-###Sony Network Camera
+1 Sony Network Camera
 - CCTV systems from the 'Sony' brand
 
-###IP cam 2
+1 IP cam 2
 - Different IP cam search. Results in US, France, Brazil,Switzerland, etc.
 
-###Netwave IP Camera
+1 Netwave IP Camera
 - Finds over 100,000 netwave IP cams.
 
-###IP Cam Hikvision
+1 IP Cam Hikvision
 - Hikvision IP cameras
 
-###IP Cams with Screenshots
+1 IP Cams with Screenshots
 - Finds IP cameras with screenshots.
 
-###Vilar IPCamera
+1 Vilar IPCamera
 - You can control these cameras using their motorization system (Pan / Tilt / Zoom - PTZ) Warning! Your IP address may be memorized in the system log! It is recommended to use a proxy or VPN before you connect to these cameras. To delete your IP address in the system log, reboot the camera server. Default password is: Username: admin / Password: 123456.
 
-###Foscam (IP Cameras) - Spain/España
+1 Foscam (IP Cameras) - Spain/España
 - IP cameras (Foscam devices) in Spain / España. -- Default Authentication -- User name: admin Password: *nothing / blank*
 
-###Heden
+1 Heden
 - French IP cameras from the 'Heden' brand
 
-###Chianet Nodinfo Cameras
+1 Chianet Nodinfo Cameras
 - Chianet Nodinfo (http://www.analog.com/en/content/nodinfo_networked_digital_video_recorders/fca.html) Cameras. ¿Why secret? XD. [g00gl3 5c0u7]
 
-###D-Link Internet Camera
+1 D-Link Internet Camera
 - D-Link Internet Camera DCS-5300 series, without authentication. [g00gle 5c0u7]
 
-###Italian "Foscam" IP Cameras
+1 Italian "Foscam" IP Cameras
 - Foscam devices in Italy -- Most of them have an audio feature and offers the possibility to talk if you have a microphone -- To do that, you must have IE and ActiveX -- If it was not been changed, the default password is: admin - :blank/nothing:
 
-###Avtech Camera Login Portal
+1 Avtech Camera Login Portal
 - Avtech Camera Login Portal. [g00gl3 5c0u7]
 
-###LNE3003 Wireless IP Camera
+1 LNE3003 Wireless IP Camera
 - Default password: admin - admin
 
-###Home Cams
+1 Home Cams
 - Found a few home IP cams...
 
-###mini dome ip camera httpd
+1 mini dome ip camera httpd
 - user: 3sadmin password: 27988303
 
-###Megapixel 3
+1 Megapixel 3
 - Megapixel IP cam search.
 
-###NetCamXL Video Camera Stream
+1 NetCamXL Video Camera Stream
 - NetCamXL Video Camera Streaming Webcam
 
-###Arecont Vision
+1 Arecont Vision
 - hxxp://www.arecontvision.com It seems that admin::admin are defaults. According one manual there is a also a default "user" account
 
-###Spanish IP Cameras
+1 Spanish IP Cameras
 - IP cameras in Spain -- Most of them have an audio feature and offers the possibility to talk if you have a microphone -- To do that, you must have IE and ActiveX -- If it was not been changed, the default password is: admin - *blank/nothing*
 
-###IP video+camera
+1 IP video+camera
 - Mostly news webcams police cams admin 1234
 
-###Megapixel 2
+1 Megapixel 2
 - More Megapixel IP Cams.
 
-###Cam Webs
+1 Cam Webs
 - Great IP cam search
 
-###IP Cam Screenshots
+1 IP Cam Screenshots
 - Body cams and IP cams with screenshots
 
-###Geovision Products Loging Portal
+1 Geovision Products Loging Portal
 - Geovision products (http://www.geovision.com.tw/english/index.asp) login portal. [g00gl3 5c0u7]
 
-###Red light enforcement cameras
+1 Red light enforcement cameras
 - red light enforecement camera webcam
 
-###WVC210 Wireless-G PTZ Internet Camera with Audio
+1 WVC210 Wireless-G PTZ Internet Camera with Audio
 - IP cameras with PTZ function available. No password required.
 
-###DCS-5300G
+1 DCS-5300G
 - D-Link Internet Camera. No authentication required.
 
-###IP Camera 3
+1 IP Camera 3
 - Another IP cam search! 600+ results.
 
-###Netwave IP camera
+1 Netwave IP camera
 - Finds Netwave IP cams. Results in Germany, France, US, Belgium, etc.
 
-###Good IP Cam search
+1 Good IP Cam search
 - Netcam IP cameras.
 
-###US IP cams
+1 US IP cams
 - IP cams in the US with screenshots
 
-###IP Cams Screenshots
+1 IP Cams Screenshots
 - IP cameras with screenshots.
 
-###Axis Camera
+1 Axis Camera
 - Axis network camera
 
-###Malaysia HOME DVR
+1 Malaysia HOME DVR
 - admin:123456
 
-###Linksys cameras
+1 Linksys cameras
 - All open, no passwords required.
 
-###PIPS AUTOPLATE
+1 PIPS AUTOPLATE
 - See: Dan Tentler's LAyerOne 2012 slides pg. 82 http://atenlabs.com/layerone2012/long-tail-of-the-internet.pdf
 
-###IP Cam Dork
+1 IP Cam Dork
 - Found close to 2000 IP cams, some of which are unprotected.
 
-###Cam-Webs
+1 Cam-Webs
 - Servers for Megapixel IP cams.
 
-###IP Camera 3
+1 IP Camera 3
 - Another good IP cam search.
 
-###Megapixel
+1 Megapixel
 - Finds Megapixel IP cams.
 
-###IP Cams
+1 IP Cams
 - Displays IP cams, some with screenshots.
 
-###Megapixel IP cams
+1 Megapixel IP cams
 - Megapixel IP cameras. Most have screenshots.
 
-###Netwave
+1 Netwave
 - Netwave ip camera country:DE
 
-###Polycoms with HTTP access
+1 Polycoms with HTTP access
 - BIg trolling potential...
 
-###HIK VISION
+1 HIK VISION
 - defaut login:admin pass:12345
 
-###TeleEye Java Viewer
+1 TeleEye Java Viewer
 - Some webcams, mostly security cameras, default password= 123456
 
-###Camera Web Server
+1 Camera Web Server
 - Open camera web servers
 
-###EverFocus camera industrial
+1 EverFocus camera industrial
 - att kelvinsecurity
 
-###MJPG Streamer
+1 MJPG Streamer
 - Camera streams. Click on link, click on Still. Then if you want to stream it click on VLC.
 
-###ipcamera
+1 ipcamera
 
-###Automatic Number Plate Recognition Camera
+1 Automatic Number Plate Recognition Camera
 - Automatic Number Plate Recognition camera with Unauthenticated telnet open to internet
 
-###AXIS Cameras no login.
+1 AXIS Cameras no login.
 - AXIS Cameras monitoring without login. Dork02 by Ricciorosso
 
-###Hikvision NVRs
+1 Hikvision NVRs
 - Default: admin / 12345
 
-###Avigilion CCTV
+1 Avigilion CCTV
 - Login: admin;admin
 
-###Apple store in CA camera
+1 Apple store in CA camera
 - No Security camera in apple store CA just spy :)
 
-###Mobotix Cameras
+1 Mobotix Cameras
 - Default credentials admin:meinsm
 
-###Milestone Portals
+1 Milestone Portals
 - https://www.milestonesys.com/
 
-###Reecam
+1 Reecam
 - Reecam IP cameras.
 
-###live cameras
+1 live cameras
 - live cameras world wide with screenshots
 
-###Dedicated Micros camera system
+1 Dedicated Micros camera system
 - Almost always no authentication
 
-###"Network Card Manager"
+1 "Network Card Manager"
 - Search for "Network Card Manager" Click on an IP that appears Put admin in the user box, press enter!
 
-###DVR Surveillance Cameras
+1 DVR Surveillance Cameras
 - Over 30000 Security DVR cameras, default user and pass are both admin. Only works using Internet Explorer.
 
-###Cam
+1 Cam
 - dahua
 
-###Mobotix Camera
+1 Mobotix Camera
 - Open webcam dashboards
 
-###Inspire DVR
+1 Inspire DVR
 - Default: Admin 888888 (Case sensitive)
 
-###Webcams
+1 Webcams
 - many cams without login
 
-###cam D-Link
+1 cam D-Link
 - Web Cams de marque d-link
 
-###IP Cam
+1 IP Cam
 - IP cam search - returns a few other types of cameras as well.
 
-###AXIS P5512-E
+1 AXIS P5512-E
 - root:pass
 
-###Open Webcams
+1 Open Webcams
 - View open webcams that do not require login Query: webcam ok
 
-###d-Link Internet Camera
+1 d-Link Internet Camera
 
-###webcam authorized
+1 webcam authorized
 - webcam
 
-###Red Light Cameras
+1 Red Light Cameras
 - PIPS Technology ALPR processors are complete one-box processors for automatic licence plate recognition. To see a live feed of license plates as they're being captured, visit the "Monitor > Client Monitor" section.
 
-###High-def Web Cameras
+1 High-def Web Cameras
 - As revealed at Blackhat 2013
 
-###box ip camera httpd
+1 box ip camera httpd
 - user: 3sadmin password: 27988303
 
-###Foscam IP WiFi Cams
+1 Foscam IP WiFi Cams
 - Default login User: admin Password: null / nothing
 
-###Foscam (IP Cameras) - Houston
+1 Foscam (IP Cameras) - Houston
 - IP cameras (Foscam devices) in Houston.
 
-###Netwave IP Camera
+1 Netwave IP Camera
 - admin/blank
 
-###Loxone Intercom video
+1 Loxone Intercom video
 - Default password: admin:admin att kelvinsecurity
 
-###Canon VBM40 Net Cam
+1 Canon VBM40 Net Cam
 - older camera, usually no security
 
-###Web cameras
+1 Web cameras
 - ipcamera
 
-###India webcams
+1 India webcams
 - webcams of India
 
-###MotionEYE
+1 MotionEYE
 - some of them without password
 
-###Defeway
+1 Defeway
 
-###Foscam H.264 IP Cameras
+1 Foscam H.264 IP Cameras
 - Default: admin / *blank*
 
-###Speco IP Cameras
+1 Speco IP Cameras
 - Default: admin / 1234
 
-###Blue Iris Open Webcams
+1 Blue Iris Open Webcams
 - The title is pretty self-explanatory. People should put more effort into protecting cameras.
 
-###Network Camera
+1 Network Camera
 - Simple Title Search for "Network Camera with" aiming to to target network cameras with Pan/Tilt/Zoom!
 
-###Megapixel
+1 Megapixel
 - Finds Megapixel IP cams.
 
-###5k+ Unlocked Webcams
+1 5k+ Unlocked Webcams
 - Webcams around the world without a password required to view.
 
-###Comelit Camera Surveance Systems
+1 Comelit Camera Surveance Systems
 - Query:GoAhead-Webs/2.5.0 PeerSec-MatrixSSL/3.1.3-OPEN. Login as "Admin" without password
 
-###ExecqVision
+1 ExecqVision
 - Admin Admin256
 
-###MotionEYE
+1 MotionEYE
 - some of them without password
 
-###Defeway
+1 Defeway
 
-###Foscam H.264 IP Cameras
+1 Foscam H.264 IP Cameras
 - Default: admin / *blank*
 
-###Speco IP Cameras
+1 Speco IP Cameras
 - Default: admin / 1234
 
-###Blue Iris Open Webcams
+1 Blue Iris Open Webcams
 - The title is pretty self-explanatory. People should put more effort into protecting cameras.
 
-###Network Camera
+1 Network Camera
 - Simple Title Search for "Network Camera with" aiming to to target network cameras with Pan/Tilt/Zoom!
 
-###Megapixel
+1 Megapixel
 - Finds Megapixel IP cams.
 
-###5k+ Unlocked Webcams
+1 5k+ Unlocked Webcams
 - Webcams around the world without a password required to view.
 
-###Comelit Camera Surveance Systems
+1 Comelit Camera Surveance Systems
 - Query:GoAhead-Webs/2.5.0 PeerSec-MatrixSSL/3.1.3-OPEN. Login as "Admin" without password
 
-###ExecqVision
+1 ExecqVision
 - Admin Admin256
 
-###Mobotix Cameras
+1 Mobotix Cameras
 - Default credentials admin:meinsm
 
-###AXIS Cameras no login.
+1 AXIS Cameras no login.
 - AXIS Cameras monitoring without login.
 
-###Hikvision cams (RU)
+1 Hikvision cams (RU)
 
-###GS Camera
+1 GS Camera
 - Not Password KelvinSecurity
 
-###Security Spy
+1 Security Spy
 - Some cameras, not passworded.
 
-###Every IP that has web camerathat isn't VNC or X server.
+1 Every IP that has web camerathat isn't VNC or X server.
 
-###Webcams
+1 Webcams
 - DVSS-HttpServer
 
-###Sony Network Camera
+1 Sony Network Camera
 - Default user/pass is admin/admin
 
-###FOSCAM
+1 FOSCAM
 - Surveillance camera
 
-###IP Cam Hostname
+1 IP Cam Hostname
 - Finds some IP cams by hostname.
 
-###Cameras with image
+1 Cameras with image
 
-###Vivotek Network Camera
+1 Vivotek Network Camera
 - A network attached webcam that ships with no authentication required. As long as the webserver is reporting an HTTP response code of 200 Ok, then the camera was never secured.
 
-###cube ip camera httpd
+1 cube ip camera httpd
 - user: 3sadmin password: 27988303
 
-###Airlink Camera
+1 Airlink Camera
 - Airlink/D-Link camera, with administration page.
 
-###NetSurveillance servers
+1 NetSurveillance servers
 - Most work with admin - /null
 
-###Webcam mostly default credentials
+1 Webcam mostly default credentials
 - 12,0000+ webcam hits. Many with default credentials of admin/admin
 
-###IP cam
+1 IP cam
 - Good IP cam search!! 2000+ results.
 
-###Megapixel IP Camera
+1 Megapixel IP Camera
 - admin:<empty>
 
-###DLink and Vivotek IP Cameras
+1 DLink and Vivotek IP Cameras
 - Default: admin / 123456
 
-###Foscam NVRs
+1 Foscam NVRs
 - Default: admin / *blank*
 
-###Open d_link camera
+1 Open d_link camera
 - No auth need for "security cam" :)
 
-###Axis webcam
+1 Axis webcam
 - Axis webcam's in Japan most of them with PTZ
 
-###Cams with screenshots
+1 Cams with screenshots
 
-###Open Door Cams/Some locked
+1 Open Door Cams/Some locked
 - Video streaming devices. Some with open doors, some without.
 
-###IP Camera
+1 IP Camera
 - Finds numerous IP cams.
 
-###Digital Watching NVR
+1 Digital Watching NVR
 - admin / blank
 
-###Lilin Cam
+1 Lilin Cam
 - default password for this device is often admin::1111
 
-###FOSCAM
+1 FOSCAM
 - admin
 
-###Network Camera
+1 Network Camera
 - axis + sony network camera.
 
-###ask shodan for mjpeg
+1 ask shodan for mjpeg
 - mjpeg live stream camera stream for mobile devices
 
-###Canon VB Cams
+1 Canon VB Cams
 - Mostly unauthenticated
 
-###IQInvision No-Auth Cameras
+1 IQInvision No-Auth Cameras
 - IQInvision Cameras with No Authentication required
 
-###yawcam
+1 yawcam
 - yet another webcam
 
-###caméra argentine
+1 caméra argentine
 - caméra argentine
 
-###NL NUUO
+1 NL NUUO
 - admin admin
 
-###Network camera
+1 Network camera
 - tons of camera some open for all enjoy
 
-###Vivotek IP cameras
+1 Vivotek IP cameras
 - Default username/pass: admin/admin
 
-###Ip Camera
+1 Ip Camera
 - 85% are open to all enjoy
 
-###Netwave IP Camera
+1 Netwave IP Camera
 - admin
 
-###RTSP
+1 RTSP
 - RTSP
 
-###light httpd
+1 light httpd
 - /cgi-bin/rtpd.cgi?echo&AdminPasswd_ss|tdb&get&HTTPAccount
 
-###Pan-Tilt Cameras
+1 Pan-Tilt Cameras
 
-###Hipcam RealServer/V1.0 in Japan
+1 Hipcam RealServer/V1.0 in Japan
 - "Hipcam RealServer/V1.0" has_screenshot:true country:"JP"
 
-###Webcam 7 unsecured ip camera
+1 Webcam 7 unsecured ip camera
 - all these cameras can be viewed, some have multiple channels
 
-###IP Cameras galore
+1 IP Cameras galore
 - Various brands of IP camera. Many with default credentials.
 
-###Network Cube Camera
+1 Network Cube Camera
 - no password
 
-###H264DVR 1.0
+1 H264DVR 1.0
 
-###camer
+1 camer
 - free camera
 
-###Ip camera
+1 Ip camera
 - Ip cameras
 
-###Camera Webserver 1.0
+1 Camera Webserver 1.0
 - Open camera webservers
 
-###Network Camera
+1 Network Camera
 - IP Cameras with no Autho
 
-###Hipcam RealServer/V1.0"
+1 Hipcam RealServer/V1.0"
 - Hipcam Cams
 
-###webcamXP/webcam7
+1 webcamXP/webcam7
 - ("webcam 7" OR "webcamXP") http.component:"mootools" -401
 
-###Some Webcams(SQ Webcams?)
+1 Some Webcams(SQ Webcams?)
 - Server: SQ-WEBCAM
 
-###Yawcam Webcams
+1 Yawcam Webcams
 - "Server: yawcam" "Mime-Type: text/html"
 
-###Surveillance Cams
+1 Surveillance Cams
 - Server: uc-httpd 1.0.0
 - NETSurveillance uc-httpd
 - Surveillance cams with admin:admin or admin:(none) creds
 
-###Hikvision Cameras
+1 Hikvision Cameras
 - product:"Hikvision IP Camera"
 - Link for Hikvision backdoor here: https://ipvm.com/reports/hik-exploit
 
-###Generic dork for finding cameras
+1 Generic dork for finding cameras
 - title:camera
 
-###Generic dork for finding cameras (with screenshots)
+1 Generic dork for finding cameras (with screenshots)
 - webcam has_screenshot:true
 
-###Dahua Cameras
+1 Dahua Cameras
 - http.title:"WEB VIEW"
 
-###Some random webcams
+1 Some random webcams
 - http.title:"Webcam"
 ~~~
 
