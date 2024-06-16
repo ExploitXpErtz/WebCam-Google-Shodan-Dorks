@@ -6,8 +6,8 @@
 ### Wireless N IP cams
 - IP cams using the wireless-n protocol.
 
-### Weather Wing Portal
-- Weather Wing (http://www.meteo-system.com/ws2.php). You can also search it using this Google Dork -> [intitle:"Weather Wing WS-2"]. [g00gl3 5c0u7]
+### intitle:"Weather Wing WS-2"
+- Weather Wing WS-2.
 
 ### Network cameras with Pan/Tilt/Zoom
 - IP cameras with Pan/Tilt/Zoom function...
