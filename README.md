@@ -1,4 +1,4 @@
-# WebCam-Google-Shodan-Dorks
+# Google & Shodan Dorks for WebCam
 
 ## Shodan Dorks:
 ---------------------------
