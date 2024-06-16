@@ -3,9 +3,6 @@
 ## Shodan Dorks:
 ---------------------------
 
-### intitle:"Weather Wing WS-2"
-- Weather Wing WS-2.
-
 ### Network cameras with Pan/Tilt/Zoom
 - IP cameras with Pan/Tilt/Zoom function...
 
@@ -710,3 +707,5 @@
 - inurl:"MultiCameraFrame?Mode=Motion"
 
 - intitle:"IP CAMERA Viewer" intext:"setting | Client setting"
+
+- intitle:"Weather Wing WS-2"
