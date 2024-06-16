@@ -1,9 +1,8 @@
 # WebCam-Google-Shodan-Dorks
 
 
-
-- ##Google Dorks:
-- ~~~~~~~~~~~~~~~~
+~~~
+##Google Dorks:
 
 - intitle:"iGuard Fingerprint Security System"
 
@@ -158,3 +157,4 @@
 - intitle:"netcam live image" (disconnected)
 
 - intitle:"i-Catcher Console - Web Monitor"
+~~~
