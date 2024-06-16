@@ -677,3 +677,39 @@
 - intitle:"netcam live image" (disconnected)
 
 - intitle:"i-Catcher Console - Web Monitor"
+
+- intitle:"IP Webcam" inurl:"/greet.html"
+
+- AXIS Camera exploit
+
+- intitle:"NetCamSC*"
+
+- intitle:"NetCamXL*"
+
+- inurl:"view.shtml" "camera"
+
+- intitle:"NetCamSC*" | intitle:"NetCamXL*" inurl:index.html
+
+- inurl:"live/cam.html"
+
+- inurl:"view.shtml" "Network Camera"
+
+- inurl:/config/cam_portal.cgi "Panasonic"
+
+- "Camera Live Image" inurl:"guestimage.html"
+
+- intitle:"webcam" inurl:login
+
+- inurl:/ViewerFrame? intitle:"Network Camera NetworkCamera"
+
+- intitle:"WEBCAM 7 " -inurl:/admin.html
+
+- intitle:NetworkCamera intext:"Pan / Tilt" inurl:ViewerFrame
+
+- inurl:/live.htm intext:"M-JPEG"|"System Log"|"Camera-1"|"View Control"
+
+- intitle:"webcamXP 5" inurl:8080 'Live'
+
+- inurl:"MultiCameraFrame?Mode=Motion"
+
+- intitle:"IP CAMERA Viewer" intext:"setting | Client setting"
