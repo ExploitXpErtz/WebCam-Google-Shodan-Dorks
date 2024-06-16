@@ -3,9 +3,6 @@
 ## Shodan Dorks:
 ---------------------------
 
-### Wireless N IP cams
-- IP cams using the wireless-n protocol.
-
 ### intitle:"Weather Wing WS-2"
 - Weather Wing WS-2.
 
