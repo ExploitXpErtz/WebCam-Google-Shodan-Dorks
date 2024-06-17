@@ -3,6 +3,20 @@
 ## Google Dorks:
 ---------------------------
 
+- inurl:"CgiStart?page="
+
+- inurl:camctrl.cgi
+
+- inurl:"view/index.shtml"
+
+- intitle:"IP CAMERA Viewer" intext:"setting |Client setting"
+
+- intitle:"Device(" AND intext:"Network Camera" AND "language:" "AND "Password"
+
+- intitle:"webcam 7" inurl:"/gallery.html"
+
+- intitle:"yawcam" inurl:":8081"
+
 - intitle:"iGuard Fingerprint Security System"
 
 - (intitle:MOBOTIX intitle:PDAS) | (intitle:MOBOTIX intitle:Seiten) | (inurl:/pda/index.html +camera)
@@ -25,25 +39,13 @@
 
 - intitle:HomeSeer.Web.Control | Home.Status.Events.Log
 
-- inurl:camctrl.cgi
-
 - intitle:"supervisioncam protocol"
 
 - intitle:"active webcam page"
 
-- inurl:"view/index.shtml"
-
 - inurl:"MultiCameraFrame?Mode=Motion"
 
 - VB Viewer inurl:/viewer/live/ja/live.html
-
-- intitle:"IP CAMERA Viewer" intext:"setting |Client setting"
-
-- intitle:"Device(" AND intext:"Network Camera" AND "language:" "AND "Password"
-
-- intitle:"webcam 7" inurl:"/gallery.html"
-
-- intitle:"yawcam" inurl:":8081"
 
 - inurl:control/camerainfo
 
@@ -84,8 +86,6 @@
 - intitle:"webcamXP 5"
 
 - inurl:"lvappl.htm"
-
-- inurl:"CgiStart?page="
 
 - inurl:/view.shtml
 
