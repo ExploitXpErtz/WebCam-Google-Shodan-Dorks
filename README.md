@@ -3,17 +3,14 @@
 ## Shodan Dorks:
 ---------------------------
 
-### Network cameras with Pan/Tilt/Zoom
-- IP cameras with Pan/Tilt/Zoom function...
-
 ### DCS-5220 IP camera
 - D-Link IP cameras.
 
-### Web Viewer for Samsung DVR
-- Default password is: Username = admin / Password = 4321
-
-### IP CAMERA Viewer (TP-Link IP Cameras)
+### IP CAMERA Viewer | TP-Link IP Cameras
 - Several cameras have an PTZ option (Pan-Tilt-Zoom). No authentication is required. IP CAMERA Viewer for TP-Link IP Cameras.
+
+### Sony Network Camera
+- CCTV systems from the 'Sony' brand
 
 ### webcamxp
 - one of the best dorks for ip cameras/webcams
@@ -33,9 +30,6 @@
 ### IQeye Cameras
 - default login: root / system
 
-### Sony Network Camera
-- CCTV systems from the 'Sony' brand
-
 ### IP cam 2
 - Different IP cam search. Results in US, France, Brazil,Switzerland, etc.
 
@@ -47,6 +41,9 @@
 
 ### IP Cams with Screenshots
 - Finds IP cameras with screenshots.
+
+### Web Viewer for Samsung DVR
+- Default password is: Username = admin / Password = 4321
 
 ### Vilar IPCamera
 - You can control these cameras using their motorization system (Pan / Tilt / Zoom - PTZ) Warning! Your IP address may be memorized in the system log! It is recommended to use a proxy or VPN before you connect to these cameras. To delete your IP address in the system log, reboot the camera server. Default password is: Username: admin / Password: 123456.
